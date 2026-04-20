@@ -1,7 +1,7 @@
 # Conway's Game of Life (Bash + Python GIF Demo)
 
 ## 📌 Overview
-This project demonstrates **John Conway’s Game of Life** using bash script. I have also commented on the sections that are iterative to be clear on what exactly the code does.
+- This project demonstrates **John Conway’s Game of Life** using bash script. I have also commented on the sections that are iterative to be clear on what exactly the code does.
 ---
 
 ### 🧠 Rules
@@ -18,18 +18,17 @@ This project demonstrates **John Conway’s Game of Life** using bash script. I 
 - A loop runs multiple generations (time evolution)
 ---
 
-## 🔁 Project Structure
+## 📂 Project Structure
 - Conway.sh - contains the bash script for Conway's Game of Life
 - program.cpp - contains the C++ code which I have initially written to understand Conway's Game of Life
 ---
 
 ## 🖥️ Bash Implementation
-
-Run the script:
+- Run the script:
 ```bash
 bash game_of_life.sh
-
+```
 ---
-## Demo
 
+## Demo
 ![Game of Life](game_of_life1.gif)
