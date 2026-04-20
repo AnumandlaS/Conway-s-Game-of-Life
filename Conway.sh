@@ -1,6 +1,7 @@
 #!/bin/bash
 # Hello, my name is Siri Anumandla. This file consists of bash code for the Conway's Game of Life. If you do have time please 
-# check my github repository - 
+# check my github repository - https://github.com/AnumandlaS/Conway-s-Game-of-Life.git. Here I have written some notes on what I 
+# have learnt to cpmplete the task and as well as there is a small animation which clearly displays Conway's Game of Life.
 ROWS=4
 COLS=4
 
@@ -65,7 +66,7 @@ stateNext() {
 # Run one iteration
 stateNext
 
-# Print matrix
+# Just to print the matrix
 for ((i=0; i<ROWS; i++)); do
   for ((j=0; j<COLS; j++)); do
     idx=$(get_index $i $j)
