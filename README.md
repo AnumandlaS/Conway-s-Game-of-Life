@@ -1,3 +1,3 @@
 ## Demo
 
-![Game of Life](game_of_life.gif)
+![Game of Life](game_of_life1.gif)
