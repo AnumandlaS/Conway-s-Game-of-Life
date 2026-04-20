@@ -26,7 +26,7 @@
 ## 🖥️ Bash Implementation
 - Run the script:
 ```bash
-bash game_of_life.sh
+bash Conway.sh
 ```
 ---
 
