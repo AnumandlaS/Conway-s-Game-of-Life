@@ -1,7 +1,8 @@
 #!/bin/bash
 # Hello, my name is Siri Anumandla. This file consists of bash code for the Conway's Game of Life. If you do have time please 
 # check my github repository - https://github.com/AnumandlaS/Conway-s-Game-of-Life.git. Here I have written some notes on what I 
-# have learnt to cpmplete the task and as well as there is a small animation which clearly displays Conway's Game of Life.
+# have learnt to cpmplete the task and as well as there is a small animation which clearly displays Conway's Game of Life and also
+# contains the C++ code which I initially wrote as I didn't knwo about Conway's Game fo Life before.
 ROWS=4
 COLS=4
 

@@ -1,4 +1,4 @@
-# Conway's Game of Life (Bash + Python GIF Demo)
+# Conway's Game of Life
 
 ## 📌 Overview
 - This project demonstrates **John Conway’s Game of Life** using bash script. I have also commented on the sections that are iterative to be clear on what exactly the code does.
